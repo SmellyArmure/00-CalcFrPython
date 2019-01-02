@@ -1,1 +1,2 @@
-Projet de calculatrice auto-apprenante et qui comprend le français (en Python)
+Projet de calculatrice auto-apprenante et qui comprend le franÃ§ais (en Python)
+Que se passe-t-il lorsque je modifie ?
