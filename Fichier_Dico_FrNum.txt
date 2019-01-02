@@ -1,0 +1,8 @@
+cent 100
+un 1
+deux 2
+dix 10
+mille 1000
+bonjour 30
+bonjour 30
+bonjour 30
